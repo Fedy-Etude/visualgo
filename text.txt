@@ -1,0 +1,8 @@
+Subject: Feedback on the VisualGo activity
+Hello Sir,
+I tested the visualizations on the VisualGo website. Here is my summary:
+What I know: Arrays and Sorting algorithms. I have tested them and I understand how they work.
+What I do not know yet: The other data structures and algorithms (like linked lists, trees, graphs, etc.).
+Why: Because they are new concepts for me and I have not had the chance to study them in detail yet.
+I will continue to explore these new visualizations to learn step by step.
+Best regards.
